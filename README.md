@@ -2,7 +2,7 @@
 
 <div align="left">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=900&color=00F7FF&vCenter=true&width=600&lines=Building+modern+web+experiences;Next.js+%2B+React+Developer;UI%2FUX+focused+creator;Always+shipping+new+ideas)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=900&color=00F7FF&vCenter=true&width=600&lines=Building+modern+web+experiences;Next.js+%2B+React+Developer;UI%2FUX+focused+creator;Always+shipping+new+ideas)
 
 </div>
 
